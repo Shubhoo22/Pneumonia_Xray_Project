@@ -110,4 +110,5 @@ To improve performance, MobileNetV2 pretrained on ImageNet was adopted.
 
 # 👨‍💻 Author
 
-T TARUN TEJA
+SUBHAM MONDAL
+M.TECH CSE (JADAVPUR UNIVERSITY)
